@@ -1,6 +1,7 @@
 {
-    "prefix":"",
-    "token":"",
-    "threshold":10000,
-    "amount":5
+    "prefix":"", //Prefix
+    "token":"", //Discord.dev
+    "threshold":10000, //Can be changed
+    "amount":5 //Can be changed
 }
+//Rainbow studio
