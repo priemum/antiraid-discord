@@ -1,5 +1,5 @@
-const Discord = require('discord.js'),
-    client = new Discord.Client(),
+const Discord = require('discord.js'), //Rainbow Studios
+    client = new Discord.Client(), //Dont remove credits
     {
         threshold,
         token,
