@@ -2,7 +2,7 @@ const Discord = require('discord.js'), //Rainbow Studios
     client = new Discord.Client(), //Dont remove credits
     {
         threshold,
-        token,
+        token,              
         amount
     } = require('./config.json'),
     {
